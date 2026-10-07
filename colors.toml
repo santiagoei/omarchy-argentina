@@ -1,0 +1,35 @@
+mode = "dark"
+
+accent = "#75aadb"
+selection = "#1d3a5f"
+muted = "#40607f"
+
+background = "#0c1c30"
+dark_background = "#081524"
+darker_background = "#050e18"
+lighter_background = "#14304d"
+
+foreground = "#eaf1f8"
+dark_foreground = "#4a6b8a"
+light_foreground = "#c5d6e8"
+bright_foreground = "#f4f8fc"
+
+red = "#e57382"
+yellow = "#f6b40e"
+orange = "#f0964b"
+green = "#63c7a3"
+cyan = "#8fd4e8"
+blue = "#75aadb"
+magenta = "#b48eda"
+brown = "#8a6a48"
+
+bright_red = "#ef8b98"
+bright_yellow = "#ffc227"
+bright_green = "#7ad4b0"
+bright_cyan = "#a2e0f2"
+bright_blue = "#8fc0ea"
+bright_magenta = "#c7a4e6"
+
+# Celeste a blanco, como las rayas de la casaca
+hyprland_active_border = "rgba(75aadbee) rgba(f4f8fcee) 45deg"
+hyprland_inactive_border = "rgba(3c5a78aa)"
