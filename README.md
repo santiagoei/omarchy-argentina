@@ -1,6 +1,6 @@
 # Argentina — Omarchy theme
 
-A dark Omarchy theme inspired by the alternate kit of the Asociación del Fútbol Argentino: deep navy surfaces, celeste accents, and the gold of the Sol de Mayo.
+A dark Omarchy theme inspired by Argentina — its flag, skies, and urban light: deep navy surfaces, celeste accents, and the gold of the Sol de Mayo.
 
 ![preview](preview.png)
 
@@ -16,14 +16,14 @@ omarchy theme set argentina
 | Token | Color | Inspiration |
 |---|---|---|
 | accent | `#75aadb` | Celeste |
-| background | `#0c1c30` | Tercera camiseta (navy) |
+| background | `#0c1c30` | Noche argentina (navy) |
 | foreground | `#eaf1f8` | Blanco |
 | yellow | `#f6b40e` | Sol de Mayo |
-| green | `#63c7a3` | Campo de juego |
+| green | `#63c7a3` | Pampa verde |
 | red | `#e57382` | Papel picado |
-| brown | `#8a6a48` | Pelota de cuero |
+| brown | `#8a6a48` | Yerba mate |
 
-Window borders use a celeste→white gradient, like the stripes of the home kit.
+Window borders use a celeste→white gradient, like the stripes of the Argentine flag.
 
 ## Backgrounds
 
@@ -37,7 +37,7 @@ around its own opener.
 
 ## Sister theme
 
-[omarchy-argentina-light](https://github.com/santiagoei/omarchy-argentina-light.git) — the home kit version: celeste and white.
+[omarchy-argentina-light](https://github.com/santiagoei/omarchy-argentina-light.git) — the light variant: celeste and white.
 
 ## Development
 
