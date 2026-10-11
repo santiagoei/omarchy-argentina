@@ -39,20 +39,6 @@ around its own opener.
 
 [omarchy-argentina-light](https://github.com/santiagoei/omarchy-argentina-light.git) — the light variant: celeste and white.
 
-## Development
-
-This repo root is the theme directory itself; `omarchy theme install` clones it to `~/.config/omarchy/themes/<name>`. Everything here is color data: no `*.lua`, terminal configs, or `vscode.json` are shipped (those are dropped by the installer and regenerated from `colors.toml`).
-
-To hack on it locally:
-
-```bash
-git clone <this-repo> ~/code/omarchy-argentina
-ln -s ~/code/omarchy-argentina ~/.config/omarchy/themes/argentina
-omarchy theme set argentina
-```
-
-Remove the symlink before testing `omarchy theme install` — the installer deletes the destination directory.
-
 ## License
 
 MIT
