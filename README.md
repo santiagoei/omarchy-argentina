@@ -27,7 +27,13 @@ Window borders use a celeste→white gradient, like the stripes of the home kit.
 
 ## Backgrounds
 
-11 photos of Argentina (Buenos Aires, Iguazú, El Calafate, and one for Diego), cycled alphabetically — `01_arg_bsas.jpg` opens the theme.
+20 photos of Argentina — Buenos Aires (the Obeliscos, Congreso, Caminito,
+the neighborhoods, Mar del Plata), Iguazú, El Calafate, Aconcagua, Los
+Alerces, Jujuy's Siete Colores and estadio, the seven lakes of Neuquén,
+Córdoba, a map, and one for Diego. Filenames carry their priority tier,
+so the alphabetical cycle runs first-pick first: `01_arg_bsas_obelisco.jpg`
+opens the theme. The light sister shares this exact pool, renumbered
+around its own opener.
 
 ## Sister theme
 
