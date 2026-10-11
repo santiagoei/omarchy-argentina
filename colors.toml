@@ -30,6 +30,6 @@ bright_cyan = "#a2e0f2"
 bright_blue = "#8fc0ea"
 bright_magenta = "#c7a4e6"
 
-# Celeste a blanco, como las rayas de la casaca
+# Celeste a blanco, como las franjas de la bandera argentina
 hyprland_active_border = "rgba(75aadbee) rgba(f4f8fcee) 45deg"
 hyprland_inactive_border = "rgba(3c5a78aa)"
